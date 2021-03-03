@@ -1,35 +1,17 @@
-## Welcome to GitHub Pages
 
-e
 
-### Markdown
+## Welcome to the Elastic Party Website
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Elastic Party is the greatest party in the history of the Nuke Bunker. It is the opposite of the Corruption Party, which cannot even stay true to its name and actually be corrupt. It is wonderful and it stands for everything that voters want it to stand for.
 
-```markdown
-Syntax highlighted code block
+### Ideals
 
-# Header 1
-## Header 2
-### Header 3
+The Elastic Party is unique, as it does not lean left or right politically; it is "ascended". It is the only party that aligns as such. This makes it more independent and powerful than every other party combined.
 
-- Bulleted
-- List
+### Formation
 
-1. Numbered
-2. List
+The wonderful Elastic Party was formed on March 2, 2021. The original founder was CobaltCrabby. Soon after the party was formed, Bepis, an oligarch, joined, making the party eligible for running. After that, Stikymos, another oligarch, joined, making the party contain 2 out of the 3 oligarchs.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StickyMoosh/stickymoosh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Members
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
